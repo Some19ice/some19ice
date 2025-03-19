@@ -1,6 +1,6 @@
 # El Yakub - GitHub Profile
 
-![El Yakub GitHub Banner](https://github.com/Some19ice/Some19ice/blob/main/github_banner.png)
+![El Yakub GitHub Banner](images/github_banner.png)
 
 ## 🌍 About Me
 
@@ -52,4 +52,4 @@ Let's connect and collaborate!
 
 Keep exploring, learning, and building solutions that matter. Together, we can make a real impact in the world of technology!
 
-![El Yakub](https://github.com/Some19ice/Some19ice/blob/main/octocat.png)
+![El Yakub Banner](images/github_banner.png)
