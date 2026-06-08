@@ -1,7 +1,7 @@
 # <div align="center">👋 El Yakub</div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1bf21e47-76a5-49cb-9e0b-28c95f525999" alt="El Yakub GitHub Banner" width="100%">
+  <img width="1024" height="559" alt="El Yakub GitHub Banner" src="https://github.com/user-attachments/assets/4f554858-6f11-461d-9733-43540029a9c2" />
 </div>
 
 <p align="center">
